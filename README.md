@@ -16,4 +16,30 @@ Mateus Witeck
 Victor Renzo
 
 ## Circuito
+Utilizou-se uma Arduino Uno para concepção do Projeto
+### Componentes Utilizados
 
+2 Transistores 2N2222
+2 Leds Infravermelhos
+2 Fototransistores
+1 Fotoresistor LDR
+1 Modulo DHT11
+9 Resistores (Especificações em "Circuito Arduino.brd")
+
+
+### Conexões 
+
+Arquivo de Edição ThinkkerCAD: Circuito Arduino.brd
+(Todos os valores de resistência estão nesse arquivo)
+
+![image](https://user-images.githubusercontent.com/67548433/125880713-30b155a1-cfe2-434d-b0ab-963e935d8b5e.png)
+
+
+## Software 
+
+
+### Blibliotecas 
+A única Bliblioteca utilizada foi para usar o módulo DHT11 disponibilizada aqui: github.com/wagner-rambo/arquivos/raw/master/arduino109_WR_files.rar
+
+## Arduino 
+Para o arduino temos os seguintes códigos:

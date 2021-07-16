@@ -71,3 +71,10 @@ O Protótipo feito no Figma pode ser acessado aqui: https://www.figma.com/proto/
 
 ## To Do List
 Usar comunicaço de longa distância
+
+Testar em uma colmeia real
+
+Adicionar módulos capazes de verificad a produção, como: sensor de peso e refratômetro 
+
+Arquitetar como seria uma colméia ideal para a realização do monitoramento
+

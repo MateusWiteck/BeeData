@@ -50,8 +50,8 @@ Para o arduino temos os seguintes códigos:
 
 "Monitoramento_Colmeia.ino" Gera uma tabela .csv com todos os dados coletados
 
-## Análize de Dados
-Na pasta "Ánálize de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
+## Análise de Dados
+Na pasta "Ánálise de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
 
 Nesta mesma pasta está o codigo utilizado para imprimir os gráficos do site.
 

@@ -1,7 +1,7 @@
 # BeeData
 Monitoramento de Abelhas
 
-Projeto PCS3100, Engenharia de Computaço 2021, Escola Politécnica - USP.
+Projeto PCS3100, Engenharia de Computação 2021, Escola Politécnica - USP.
 
 O objetivo desse projeto é coletar dados de colmeias de abelhas, traçar esses dados e mostrar em um site.
 
@@ -57,9 +57,9 @@ Para o arduino temos os seguintes códigos:
 "Monitoramento_Colmeia.ino" Gera uma tabela .csv com todos os dados coletados
 
 ### Análise de Dados
-Na pasta "Ánálise de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
+Na pasta "Análise de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
 
-Nesta mesma pasta está o codigo utilizado para imprimir os gráficos do site.
+Nesta mesma pasta está o código utilizado para imprimir os gráficos do site.
 
 ## Site 
 
@@ -70,11 +70,11 @@ O site pode ser acessado através desse link: https://victorrenzo.github.io/
 O Protótipo feito no Figma pode ser acessado aqui: https://www.figma.com/proto/HD2Xoac0MehWESplCQ8QzM/BeeData?node-id=1%3A3&scaling=min-zoom
 
 ## To Do List
-Usar comunicaço de longa distância
+Usar comunicação de longa distância
 
 Testar em uma colmeia real
 
-Adicionar módulos capazes de verificad a produção, como: sensor de peso e refratômetro 
+Adicionar módulos capazes de verificar a produção, como: sensor de peso e refratômetro 
 
-Arquitetar como seria uma colméia ideal para a realização do monitoramento
+Arquitetar como seria uma colmeia ideal para a realização do monitoramento
 

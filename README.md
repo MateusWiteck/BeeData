@@ -45,7 +45,7 @@ Arquivo de Edição ThinkkerCAD: Circuito Arduino.brd
 
 
 ### Blibliotecas 
-A única Bliblioteca utilizada foi para usar o módulo DHT11 disponibilizada aqui: github.com/wagner-rambo/arquivos/raw/master/arduino109_WR_files.rar
+A única Bliblioteca utilizada foi para usar o módulo DHT11 disponibilizada aqui: www.github.com/wagner-rambo/arquivos/raw/master/arduino109_WR_files.rar
 
 ## Arduino 
 Para o arduino temos os seguintes códigos:

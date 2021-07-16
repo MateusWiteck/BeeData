@@ -47,7 +47,7 @@ Arquivo de Edição ThinkkerCAD: Circuito Arduino.brd
 ### Blibliotecas 
 A única Bliblioteca utilizada foi para usar o módulo DHT11 disponibilizada aqui: www.github.com/wagner-rambo/arquivos/raw/master/arduino109_WR_files.rar
 
-## Arduino 
+### Arduino 
 Para o arduino temos os seguintes códigos:
 
 "Colmeia (nice to see).ino" Arquivo usado para demonstrar o funcionamento
@@ -56,7 +56,7 @@ Para o arduino temos os seguintes códigos:
 
 "Monitoramento_Colmeia.ino" Gera uma tabela .csv com todos os dados coletados
 
-## Análise de Dados
+### Análise de Dados
 Na pasta "Ánálise de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
 
 Nesta mesma pasta está o codigo utilizado para imprimir os gráficos do site.
@@ -69,3 +69,5 @@ O site pode ser acessado através desse link: https://victorrenzo.github.io/
 
 O Protótipo feito no Figma pode ser acessado aqui: https://www.figma.com/proto/HD2Xoac0MehWESplCQ8QzM/BeeData?node-id=1%3A3&scaling=min-zoom
 
+## To Do List
+Usar comunicaço de longa distância

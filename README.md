@@ -59,4 +59,7 @@ Nesta mesma pasta está o codigo utilizado para imprimir os gráficos do site.
 
 O site pode ser acessado através desse link: https://victorrenzo.github.io/
 
+## Aplicativo 
+
+O Protótipo feito no Figma pode ser acessado aqui: https://www.figma.com/proto/HD2Xoac0MehWESplCQ8QzM/BeeData?node-id=1%3A3&scaling=min-zoom
 

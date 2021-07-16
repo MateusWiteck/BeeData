@@ -43,7 +43,20 @@ A única Bliblioteca utilizada foi para usar o módulo DHT11 disponibilizada aqu
 
 ## Arduino 
 Para o arduino temos os seguintes códigos:
+
 "Colmeia (nice to see).ino" Arquivo usado para demonstrar o funcionamento
+
 "Estação de Monitoramento Climático.ino" Gera uma tabela .csv apenas com dados climáticos
+
 "Monitoramento_Colmeia.ino" Gera uma tabela .csv com todos os dados coletados
+
+## Análize de Dados
+Na pasta "Ánálize de Dados", o arquivo BeeData.csv é uma coleta de dados climáticos do dia 12/07/2021, das 8:30 da manhã até as 8 da noite.
+
+Nesta mesma pasta está o codigo utilizado para imprimir os gráficos do site.
+
+## Site 
+
+O site pode ser acessado através desse link: https://victorrenzo.github.io/
+
 
